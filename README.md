@@ -27,6 +27,9 @@ You can follow this article on [www.theaidream.com](https://www.theaidream.com/p
 ## 👤 Author
 
 **HOSEN ARAFAT)**  
+
 Software Engineer, China 
+
 GitHub: https://github.com/arafathosense
-Research Interests: Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, Image Processing
+
+Researcher: Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, Image Processing
